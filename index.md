@@ -5,122 +5,25 @@ description: Jefferson Robotics 2026-2027 Team Page
 show_downloads: false
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Dates
 
-[Link to another page](./another-page.html).
+# Links
+- [2026-2027 BIOGLOW™ Season Materials](https://www.firstinspires.org/resources/library/fll/season-materials): Select **Founders Edition
+Grades 4-8 (Challenge)**
 
-There should be whitespace between paragraphs.
+# Guidebook and Challenge Updates
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+- [Team Meeting Guide](https://firstinspires.blob.core.windows.net/fll/challenge/2026-27/fll-challenge-bioglow-tmg.pdf)
+- [Engineering Notebook](https://firstinspires.blob.core.windows.net/fll/challenge/2026-27/fll-challenge-bioglow-en.pdf)
+- [Robot Game Rulebook](https://firstinspires.blob.core.windows.net/fll/challenge/2026-27/fll-challenge-bioglow-rgr.pdf)
+- [Robot Game Rulebook - Interactive](https://firstinspires.blob.core.windows.net/fll/challenge/2026-27/interactive-rgr/index.html)
+- [Challenge Updates (updated 9/02/26)](https://firstinspires.blob.core.windows.net/fll/challenge/2026-27/fll-challenge-bioglow-updates.pdf)
 
-# Header 1
+# Building Instructions
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+How do I build the Mission Models?
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+1. Sort the LEGO element bags (found in your Challenge Set box) by bag number. They are labeled.
+1. Match the bag numbers with the corresponding bag numbers below.
+1. Open the correct pdf files and have an awesome time assembling the models. We strongly recommend opening one set of bags at a time so elements are not mixed up.
+1. Have fun!
