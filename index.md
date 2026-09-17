@@ -10,7 +10,7 @@ show_downloads: false
 # Links
 - [2026-2027 BIOGLOW™ Season Materials](https://www.firstinspires.org/resources/library/fll/season-materials): Select **Founders Edition
 Grades 4-8 (Challenge)**
-- [Coach Dashboard](coach-dashbaord.md)
+- [Coach Dashboard](coach-dashbaord.html)
 
 # Guidebook and Challenge Updates
 
