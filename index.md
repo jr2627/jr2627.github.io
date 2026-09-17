@@ -1,5 +1,8 @@
 ---
 layout: default
+title: JR2627
+description: Jefferson Robotics 2026-2027 Team Page
+show_downloads: false
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
