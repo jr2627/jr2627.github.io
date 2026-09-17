@@ -5,7 +5,9 @@ description: Jefferson Robotics 2026-2027 Team Page
 show_downloads: false
 ---
 
-# Links
+# Coach Dashboard
+
+## Links
 If you missed the meeting here are the 
 
 - Coaches Meeting Slide Deck: 9/8 Coaches Meeting: https://docs.google.com/presentation/d/1aZh_J1Ld8UkKHduoN3ondyG0yaHtRsoqQr86n5SNdsY/edit?usp=sharing
