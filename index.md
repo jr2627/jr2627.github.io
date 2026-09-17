@@ -7,6 +7,14 @@ show_downloads: false
 
 # Dates
 
+# Upcoming Events
+
+**Bosco Tech**
+
+November 7, 2026
+
+1151 San Gabriel Blvd, Rosemead CA 91770
+
 # Homework
 
 # Links
