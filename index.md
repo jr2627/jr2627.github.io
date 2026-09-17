@@ -10,6 +10,7 @@ show_downloads: false
 # Links
 - [2026-2027 BIOGLOW™ Season Materials](https://www.firstinspires.org/resources/library/fll/season-materials): Select **Founders Edition
 Grades 4-8 (Challenge)**
+- [Coach Dashboard](coach-dashbaord.md)
 
 # Guidebook and Challenge Updates
 
@@ -27,3 +28,4 @@ How do I build the Mission Models?
 1. Match the bag numbers with the corresponding bag numbers below.
 1. Open the correct pdf files and have an awesome time assembling the models. We strongly recommend opening one set of bags at a time so elements are not mixed up.
 1. Have fun!
+
