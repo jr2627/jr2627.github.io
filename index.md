@@ -7,6 +7,10 @@ show_downloads: false
 
 # Dates
 
+Meet at every Friday 2:30
+
+Location: school library 
+
 # Upcoming Events
 
 **Bosco Tech**
