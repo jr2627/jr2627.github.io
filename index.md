@@ -43,3 +43,5 @@ How do I build the Mission Models?
 1. Open the correct pdf files and have an awesome time assembling the models. We strongly recommend opening one set of bags at a time so elements are not mixed up.
 1. Have fun!
 
+# References
+- [BIOGLOW: Theme & Season Timeline](https://www.first-lego-league.org/en/2026-27-season/season-updates/bioglow-theme-season-timeline)
