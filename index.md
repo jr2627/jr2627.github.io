@@ -23,14 +23,14 @@ Event Schedule:
 
 The following is the tentative agenda, which may have some minor changes based on the final match schedule and number of teams attending:
 
-7:45 am - Check-In (please arrive at 7:45 to allow ample time to load in and set up before we start!)
-Approx. 8:15 am - Coaches meeting (mandatory for at least one adult per team, should last 15 minutes)
-8:30 am - Official Start
-9:00 am - Robot first round starts
-Lunch is scheduled from 12:20 pm-1:00 pm
-Approx. 3:20 pm - Robot rounds end, and clean-up begins. Please do not go home.
-Approx. 3:30 pm - Closing ceremonies
-4:00 pm - Estimated end time
+- 7:45 am - Check-In (please arrive at 7:45 to allow ample time to load in and set up before we start!)
+- Approx. 8:15 am - Coaches meeting (mandatory for at least one adult per team, should last 15 minutes)
+- 8:30 am - Official Start
+- 9:00 am - Robot first round starts
+- Lunch is scheduled from 12:20 pm-1:00 pm
+- Approx. 3:20 pm - Robot rounds end, and clean-up begins. Please do not go home.
+- Approx. 3:30 pm - Closing ceremonies
+- 4:00 pm - Estimated end time
 
 The Pit Layout: https://drive.google.com/file/d/1dgB_9OtYuIgLDlGhfOEYN9Wtcb9RS8Zq/view?usp=drive_link
 
